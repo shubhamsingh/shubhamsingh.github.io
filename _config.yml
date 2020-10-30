@@ -39,16 +39,17 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Technology (B.Tech.)
-   date: 2016
-   subject: Computer Science and Engineering
-   school: Jaypee University of Information Technology, Solan
-
  - level: Master of Technology (M.Tech.)
-   date: 2019
+   date: 2017
    subject: Computer Science and Engineering
    school: IIT Gandhinagar
    
+ - level: Bachelor of Technology (B.Tech.)
+   date: 2012
+   subject: Computer Science and Engineering
+   school: Jaypee University of Information Technology, Solan
+
+
 #This section is optional (as is the image link below)
 coursera:
    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
