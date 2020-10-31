@@ -2,16 +2,19 @@ body {
 	background: url('../img/gray_jean.png');
 	padding-top: 40px;
 	color: rgb(24, 24, 24);
+	text-align: justify;
 }
 
 html, body {
 	height: 100%;
 	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 	font-size:16px;
+	text-align: justify;
 }
 table {
 	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 	font-size:16px;
+	text-align: justify;
 }
 
 .overlay {
