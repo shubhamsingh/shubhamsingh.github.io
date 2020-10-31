@@ -79,16 +79,15 @@ speakerdeck:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
+ - shubhamsingh/shubhamsingh.github.io
+ - shubhamsingh/Single-Shot-Object-Detector
+ - shubhamsingh/Restaurant-Recommender-System
+ - shubhamsingh/Machine_Learning
+ - shubhamsingh/3D-Computer-Vision
+ - shubhamsingh/MarketingAnalytics
+ - shubhamsingh/Python
+ - shubhamsingh/C_Project
+ - shubhamsingh/turocprograms
 
 #Stackoverflow flair is optional
 # stackoverflow:
