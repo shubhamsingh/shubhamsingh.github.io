@@ -58,6 +58,15 @@ education:
    date: 2012
    subject: Computer Science and Engineering
    school: Jaypee University of Information Technology, Solan
+ 
+ - level: Senior Secondary level 10+2
+   date: 2011
+   school: Bal Bharti School, Allahabad
+   
+ - level: Secondary level 10
+   date: 2009
+   subject: Computer Science and Engineering
+   school: Swami Vivakananda Vidya Ashram, Allahabad
 
 
 #This section is optional (as is the image link below)
