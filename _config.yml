@@ -13,9 +13,17 @@ primarylinks:
    url: https://github.com/shubhamsingh
  - title: LinkedIn
    url: https://www.linkedin.com/in/shubhamkumarsingh/
+ - title: HackerRank
+   url: https://www.hackerrank.com/SHUBHAM_SINGH002   
+ - title: CodeChef
+   url: https://www.codechef.com/users/shubham002
+ - title: LeetCode
+   url: https://leetcode.com/shubhamsingh002/
 
 #Any buzzword skills you want to include
 skills:
+ - Cloud Computing
+ - Network Security
  - Scala
  - Microservices
  - API design
