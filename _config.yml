@@ -9,16 +9,20 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: GitHub
-   url: https://github.com/shubhamsingh
+
  - title: LinkedIn
    url: https://www.linkedin.com/in/shubhamkumarsingh/
+ - title: Facebook
+   url: https://www.facebook.com/shubhamkumar2jan/
+ - title: GitHub
+   url: https://github.com/shubhamsingh
  - title: HackerRank
-   url: https://www.hackerrank.com/SHUBHAM_SINGH002   
+   url: https://www.hackerrank.com/SHUBHAM_SINGH002  
  - title: CodeChef
    url: https://www.codechef.com/users/shubham002
  - title: LeetCode
    url: https://leetcode.com/shubhamsingh002/
+
 
 #Any buzzword skills you want to include
 skills:
@@ -70,17 +74,17 @@ education:
 
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+# coursera:
+#    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+#    courses:
+#     - title: Functional Programming Principles in Scala
+#       link: https://www.coursera.org/course/progfun
+#       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+#       date: September 16, 2013
+#     - title: Algorithms Design and Analysis, Part 1
+#       link: https://www.coursera.org/specializations/algorithms
+#       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+#       date: April 28, 2014
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
@@ -123,9 +127,7 @@ additionalinfo: |
    <strong>Developed Advance Web-based surveillance system for Ahmedabad Rath Yatra. [Team of 2] (Jun 2018-May 2019)</strong>: Completed the combined project of IIT Gandhinagar and Raksha Shakti University Ahmedabad under the guidance of Prof. Shanmuganathan Raman and Prof. Krishna Prasad from IIT Gandhinagar.
            Developed a prototype on web-based advanced surveillance system for crowd monitoring and Rath tracking using HTML, JavaScript, Google MAP API, Embedded camera in GMAP locations. <br/><br/>
    <strong>Text to Image Synthesis using StackGAN with Domain Adaptation. [Team of 3] (Jan-Apr 2018)</strong> Implemented Deep Learning-based Approach GAN, StackGan, CNN for generating different domain images (Flower) with the given text and combined (Bird+Flower) data sets and obtain slightly better domain adaptation results as able to create flower images. <br/><br/>
-   <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
-   <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/AWS. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="https://projects.spring.io/spring-social/">https://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="https://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+   <strong>B.Tech Final Year Project: Efficient Energy Management in Data Centers, Prof. Amit Singh. (Jul 2015-Jun 2016)</strong>: Data centers hosting cloud computing applications consume vast amounts of energy, contributing to high operational costs and carbon footprints.
+           Implemented dynamic voltage and frequency scaling, load balancing and dynamic shutdown on the GreenCloud simulator and found that we can potentially reduce the energy consumption of servers by around 50%. <br/><br/>
+   <strong>Image Enhancing and Noise Removal using GUI in Matlab, Prof. Pragya Gupta and Tapan Jain. (Jan-Jul 2014)</strong>: Implemented Graphical User Interface Photo editor in MatLab using Image Enhancing technique such as Logarithm Operation, Exponential Raise to Power Operation, Histogram Equalization, Negative Edge Detection and Noise Removal technique such as Gaussian Noise, Low pass Filter, Weiner Filter.<br/><br/>
+   
