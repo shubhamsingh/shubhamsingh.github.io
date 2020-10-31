@@ -117,7 +117,9 @@ github:
 
 intro: |
   Software developer with 2+ years industrial experience participating in the complete product development life cycle of successfully launched applications. I am looking an opportunities to work in challenging environment towards designing futuristic products/services and helps me acknowledge my potential as on. <br/><br/>
-  
+
+achievement: |
+   Won the Nutanix Hackathon 7.0 team project tilted "Consilium: DNS as a service" in the hybrid cloud category. The award consists of a cash prize of $5000 USD. <br/><br/>
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
@@ -131,5 +133,4 @@ additionalinfo: |
            Implemented dynamic voltage and frequency scaling, load balancing and dynamic shutdown on the GreenCloud simulator and found that we can potentially reduce the energy consumption of servers by around 50%. <br/><br/>
    <strong>Image Enhancing and Noise Removal using GUI in Matlab, Prof. Pragya Gupta and Tapan Jain. (Jan-Jul 2014)</strong>: Implemented Graphical User Interface Photo editor in MatLab using Image Enhancing technique such as Logarithm Operation, Exponential Raise to Power Operation, Histogram Equalization, Negative Edge Detection and Noise Removal technique such as Gaussian Noise, Low pass Filter, Weiner Filter.<br/><br/>
    
-achievement: |
-   Won the Nutanix Hackathon 7.0 team project tilted "Consilium: DNS as a service" in the hybrid cloud category. The award consists of a cash prize of $5000 USD. <br/><br/>
+
