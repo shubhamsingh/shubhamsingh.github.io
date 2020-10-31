@@ -117,12 +117,26 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="https://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
-   <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
-   <strong>Groovy</strong> I have used Groovy as a language in production for ~4 years and I am familiar with many of the languages features (such as writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>) and quirks (such as <a target="_blank" href="https://dzone.com/articles/groovy-retrospective-an-addendum-memory-usage-perm">memory leak issues</a>). <br/><br/>
-   <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
-   <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/AWS. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="https://projects.spring.io/spring-social/">https://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="https://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+   1. M.Tech Thesis: Person Re-Identification Problem, Prof. Shanmuganathan Raman. (Jan 2018-June 2019)
+
+Person Re-Identification Problem is defined as matching people across disjoint camera views in the multi-camera system. It is useful in public security application such as intelligent camera surveillance system.
+We propose Deep Parallel Feature Consensus Network (DeepPFCN), a novel network architecture that learns multi-scale person appearance features using convolutional neural networks and factories the visual appearance of a person into latent discriminative factors at multiple semantic levels and after that consensus is achieved.
+Published a paper in NCVPRIPG 2019 titled "DeepPFCN: Deep Parallel Feature Consensus Network for Person Re-Identification", a novel network architecture performed better on benchmark datasets.
+
+   2. Developed Advance Web-based surveillance system for Ahmedabad Rath Yatra. [Team of 2] (Jun 2018-May 2019)
+
+Completed the combined project of IIT Gandhinagar and Raksha Shakti University Ahmedabad under the guidance of Prof. Shanmuganathan Raman and Prof. Krishna Prasad from IIT Gandhinagar.
+Developed a prototype on web-based advanced surveillance system for crowd monitoring and Rath tracking using HTML, JavaScript, Google MAP API, Embedded camera in GMAP locations.
+
+  3. Text to Image Synthesis using StackGAN with Domain Adaptation. [Team of 3] (Jan-Apr 2018)
+
+Implemented Deep Learning-based Approach GAN, StackGan, CNN for generating different domain images (Flower) with the given text and combined (Bird+Flower) data sets and obtain slightly better domain adaptation results as able to create flower images.
+  
+  4. B.Tech Final Year Project: Efficient Energy Management in Data Centers, Prof. Amit Singh. (Jul 2015-Jun 2016)
+
+Data centers hosting cloud computing applications consume vast amounts of energy, contributing to high operational costs and carbon footprints.
+Implemented dynamic voltage and frequency scaling, load balancing and dynamic shutdown on the GreenCloud simulator and found that we can potentially reduce the energy consumption of servers by around 50%.
+
+  5. Image Enhancing and Noise Removal using GUI in Matlab, Prof. Pragya Gupta and Tapan Jain. (Jan-Jul 2014)
+
+Implemented Graphical User Interface Photo editor in MatLab using Image Enhancing technique such as Logarithm Operation, Exponential Raise to Power Operation, Histogram Equalization, Negative Edge Detection and Noise Removal technique such as Gaussian Noise, Low pass Filter, Weiner Filter.
