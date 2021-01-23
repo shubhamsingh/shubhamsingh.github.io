@@ -45,12 +45,17 @@ skills:
 
 #Work experience is required
 roles:
- - title: Member of Technical Staff
-   start: 2019
+ - title: Member of Technical Staff 3
+   start: Feb 2021
    end: Ongoing
    employer: Nutanix Technology India Pvt Limited
    description: Nutanix, Inc. is a cloud computing company. 
-
+ - title: Member of Technical Staff 2
+   start: June 2019
+   end: Jan 2021
+   employer: Nutanix Technology India Pvt Limited
+   description: Nutanix, Inc. is a cloud computing company. 
+   
 #Education is required
 education:
  - level: Master of Technology (M.Tech.)
